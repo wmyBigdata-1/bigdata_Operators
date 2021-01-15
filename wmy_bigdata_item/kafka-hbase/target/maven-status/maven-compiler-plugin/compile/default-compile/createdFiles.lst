@@ -1,0 +1,4 @@
+com\wmy\ct\consumer\bean\Calllog.class
+com\wmy\ct\consumer\bean\CalllogConsumer.class
+com\wmy\ct\consumer\dao\HBaseDao.class
+com\wmy\ct\consumer\Bootstrap.class
